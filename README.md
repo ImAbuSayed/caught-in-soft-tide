@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall but your eyes catch the fire
+> A quiet room and the flame pulls us higher
+> I trace the lines of the warmth on your skin
+> This is the moment the current begins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
