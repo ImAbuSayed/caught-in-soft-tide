@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-soft-tide/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Caught In Soft Tide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-soft-tide/) |
+| **Get License** | [Obtain a Music License for Caught In Soft Tide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-soft-tide/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall but your eyes catch the fire
+> A quiet room and the flame pulls us higher
+> I trace the lines of the warmth on your skin
+> This is the moment the current begins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cf5fbcb7f8874e2e0207801af17fa8c4e4bc10dcca6a26e15d5bf51a5a435d2a` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

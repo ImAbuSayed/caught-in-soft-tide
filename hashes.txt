@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Soft Tide
+
+This log tracks the cryptographic history and versioning for the song **Caught In Soft Tide** (caught-in-soft-tide).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T13:22:58.277189 | `v1` | `cf5fbcb7f8874e2e0207801af17fa8c4e4bc10dcca6a26e15d5bf51a5a435d2a` | `248d9c63b6a1bdfcace2a6115876c65c35eb88cc94f61962b76d17b9d53b09b6` | `2026-06-12_caught-in-soft-tide-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
